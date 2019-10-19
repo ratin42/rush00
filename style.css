@@ -1,0 +1,58 @@
+html, body {
+    height:100%;
+    font-family: "monaco";
+}
+
+html {
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#product {
+	position: relative;
+	float: left;
+	width: 45%;
+}
+
+#info {
+	padding-right: 14%;
+	width: 85%;
+}
+
+.bandeau{
+	padding: 1%;
+    background-color: rgb(118, 155, 223);
+}
+
+.bdy{
+    background-color: rgb(255, 255, 255);
+    width:100%;
+    height:100%;
+    font-family: "monaco";
+}
+.profile{
+    background-color: rgb(223, 118, 118);
+    border: none;
+	float: right;
+	position: relative;
+    font-family: "monaco";
+}
+.content{
+    background-color: rgb(255, 255, 255);
+    border: none;
+    float: left;
+    font-family: "monaco";
+}
+.footer {
+    position: fixed;
+    left: 3;
+    bottom: 3;
+    font-family: "monaco";
+}
+
